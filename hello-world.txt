@@ -1,1 +1,3 @@
 this is, at the time of adding, the only file in this repository
+the above statement is no longer true as a README.md file has been added
+    this file is being edited in a new branch of the project
